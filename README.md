@@ -1,1 +1,2 @@
-# side_project_2
+# apple watch VS galaxy watch
+--- 
